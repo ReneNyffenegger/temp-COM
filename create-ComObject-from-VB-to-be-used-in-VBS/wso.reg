@@ -1,0 +1,29 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\WindowScriptingObject]
+@="WindowScriptingObject.WindowScriptingObject"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\WindowScriptingObject\CLSID]
+@="{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}]
+@="WindowScriptingObject.WindowScriptingObject"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="WindowScriptingObject.WindowScriptingObject"
+"Assembly"="wso, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/r.nyffenegger/github/temp/COM/wso.dll"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}\InprocServer32\0.0.0.0]
+"Class"="WindowScriptingObject.WindowScriptingObject"
+"Assembly"="wso, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/r.nyffenegger/github/temp/COM/wso.dll"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}\ProgId]
+@="WindowScriptingObject"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{B146BF9E-78FC-4DB0-ABFE-9FF026B43E4D}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
